@@ -4,15 +4,8 @@
   "name": "Help Site Analytics",
   "insights": [
     {
-      "insight": "supportAnalytics_Help_Site_Unique_Queries",
-      "x": 0,
-      "y": 0,
-      "width": 2,
-      "height": 1
-    },
-    {
       "insight": "supportAnalytics_Help_Site_Search_Performance_by_Week",
-      "x": 2,
+      "x": 0,
       "y": 0,
       "width": 4,
       "height": 1
@@ -44,20 +37,6 @@
       "y": 2,
       "width": 4,
       "height": 1
-    },
-    {
-      "insight": "supportAnalytics_Help_Site_Clicks_by_Result_Vertical_Position",
-      "x": 0,
-      "y": 3,
-      "width": 3,
-      "height": 2
-    },
-    {
-      "insight": "supportAnalytics_Help_Site_Search_Clicks_by_Vertical_Position",
-      "x": 3,
-      "y": 3,
-      "width": 3,
-      "height": 2
     },
     {
       "insight": "supportAnalytics_Help_Site_Clicks_by_Search_Vertical",
