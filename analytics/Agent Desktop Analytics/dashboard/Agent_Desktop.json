@@ -109,49 +109,49 @@
       "height": 2
     },
     {
-      "insight": "supportAnalytics_Agent_Activity",
+      "insight": "supportAnalytics_Agent_Desktop_Agent_Activity",
       "x": 0,
       "y": 16,
       "width": 6,
       "height": 2
     },
     {
-      "insight": "supportAnalytics_Searches_with_Direct_Answers",
+      "insight": "supportAnalytics_Agent_Desktop_Searches_with_Direct_Answers",
       "x": 0,
       "y": 18,
       "width": 3,
       "height": 2
     },
     {
-      "insight": "supportAnalytics_Searches_with_No_Direct_Answer",
+      "insight": "supportAnalytics_Agent_Desktop_Searches_with_No_Direct_Answer",
       "x": 3,
       "y": 18,
       "width": 3,
       "height": 2
     },
     {
-      "insight": "supportAnalytics_Searches_by_Search_Term_Word_Count_Graph",
+      "insight": "supportAnalytics_Agent_Desktop_Searches_by_Search_Term_Word_Count_Graph",
       "x": 0,
       "y": 20,
       "width": 3,
       "height": 2
     },
     {
-      "insight": "supportAnalytics_Searches_by_Search_Term_Word_Count_Table",
+      "insight": "supportAnalytics_Agent_Desktop_Searches_by_Search_Term_Word_Count_Table",
       "x": 3,
       "y": 20,
       "width": 3,
       "height": 2
     },
     {
-      "insight": "supportAnalytics_Searches_by_Search_Type",
+      "insight": "supportAnalytics_Agent_Desktop_Searches_by_Search_Type",
       "x": 0,
       "y": 22,
       "width": 3,
       "height": 2
     },
     {
-      "insight": "supportAnalytics_Searches_and_Entities_with_Result_Actions",
+      "insight": "supportAnalytics_Agent_Desktop_Searches_and_Entities_with_Result_Actions",
       "x": 3,
       "y": 22,
       "width": 3,
