@@ -1,5 +1,5 @@
 {
-    "$id": "supportAnalytics_Searches_by_Search_Type",
+    "$id": "supportAnalytics_Agent_Desktop_Searches_by_Search_Type",
     "$schema": "https://schema.yext.com/config/analytics/insight/v1",
     "name": "Searches by Search Type (Placeholder)",
     "description": "Differentiates Searches by Search Type Auto Searches vs. Agent-initiated Searches.",

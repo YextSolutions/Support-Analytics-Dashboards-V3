@@ -1,5 +1,5 @@
 {
-    "$id": "supportAnalytics_Searches_and_Entities_with_Result_Actions",
+    "$id": "supportAnalytics_Agent_Desktop_Searches_and_Entities_with_Result_Actions",
     "$schema": "https://schema.yext.com/config/analytics/insight/v1",
     "name": "Searches and Entities with Result Actions (Placeholder)",
     "description": "Searches and Search Clicks by Search Term, Entity, and Result Action",

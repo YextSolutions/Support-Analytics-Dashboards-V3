@@ -1,5 +1,5 @@
 {
-  "$id": "supportAnalytics_Searches_by_Search_Term_Word_Count_Table",
+  "$id": "supportAnalytics_Agent_Desktop_Searches_by_Search_Term_Word_Count_Table",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Searches, Knowledge Graph Result Rate, and Search Click Through Rate by Search T",
   "description": "Searches, Knowledge Graph Result Rate, and Search Click Through Rate by Search Term Word Count, currently includes autocomplete and user-typed searches",

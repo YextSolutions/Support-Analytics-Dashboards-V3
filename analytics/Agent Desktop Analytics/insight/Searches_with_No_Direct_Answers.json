@@ -1,5 +1,5 @@
 {
-  "$id": "supportAnalytics_Searches_with_No_Direct_Answer",
+  "$id": "supportAnalytics_Agent_Desktop_Searches_with_No_Direct_Answer",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Searches with No Direct Answer",
   "description": "Searches by Search Term Filtered for Has No Direct Answer",

@@ -1,5 +1,5 @@
 {
-  "$id": "supportAnalytics_Searches_with_Direct_Answers",
+  "$id": "supportAnalytics_Agent_Desktop_Searches_with_Direct_Answers",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Searches with Direct Answers Performance",
   "description": "Searches, Search Click Through Rate, Thumbs Up Events, and Thumbs Down Events by Search Term and Direct Answer Click",
