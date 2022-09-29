@@ -1,5 +1,5 @@
 {
-  "$id": "supportAnalytics_Searches_by_Search_Term_Word_Count_Graph",
+  "$id": "supportAnalytics_Agent_Desktop_Searches_by_Search_Term_Word_Count_Graph",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Searches by Search Term Word Count",
   "description": "Searches by Search Term Word Count, currently includes autocompletion and agent typed searches",
