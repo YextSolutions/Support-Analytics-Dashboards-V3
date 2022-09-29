@@ -1,0 +1,54 @@
+{
+  "$id": "supportAnalytics_Help_Site_Search_Term_Word_Count_Distribution",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Search Term Word Count Distribution",
+  "description": "Monitor Average Search Term Word Count Distribution by Search Term",
+  "query": {
+    "metrics": [
+      "yext/ANSWERS_SEARCHES"
+    ],
+    "dimensions": [
+      "yext/ANSWERS_SEARCH_TERM_WORD_COUNT"
+    ],
+    "filters": [
+      {
+        "filter": "yext/date",
+        "in": "DAYS_14"
+      },
+      {
+        "filter": "yext/ANSWERS_HAS_SEARCH_TERM_CLUSTER",
+        "in": [
+          "true"
+        ]
+      },
+      {
+        "filter": "yext/ANSWERS_BLANK_SEARCH_TERM",
+        "in": [
+          "false"
+        ]
+      },
+      {
+        "filter": "yext/ANSWERS_QUERY_SOURCE",
+        "in": [
+          "HELP_SITE",
+          "SUPPORT_SEARCH"
+        ]
+      },
+      {
+        "filter": "yext/ANSWERS_CONFIGURATION_VERSION_LABEL",
+        "in": [
+          "PRODUCTION"
+        ]
+      },
+      {
+        "filter": "yext/IS_HUMAN",
+        "in": [
+          "true"
+        ]
+      }
+    ]
+  },
+  "display": {
+    "bar": {}
+  }
+}
