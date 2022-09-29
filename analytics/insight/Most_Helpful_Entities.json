@@ -1,0 +1,51 @@
+{
+  "$id": "supportAnalytics_Agent_Desktop_Most_Helpful_Entities",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Most Helpful Entities",
+  "description": "Show the top entities that are clicked on by Agents as well as the Search Vertical they belong to with the Entity Position. ",
+  "query": {
+    "metrics": [
+      "yext/ANSWERS_CLICKS"
+    ],
+    "fields": [
+      "entityId",
+      "name",
+      "address",
+      "yext/derivedField-postalCode",
+      "yext/derivedField-city"
+    ],
+    "dimensions": [
+      "yext/ENTITIES",
+      "yext/ANSWERS_RESULT_ENTITY_POSITION",
+      "yext/ANSWERS_SEARCH_VERTICAL"
+    ],
+    "filters": [
+      {
+        "filter": "yext/date",
+        "in": "DAYS_14"
+      },
+      {
+        "filter": "yext/ANSWERS_QUERY_SOURCE",
+        "in": [
+          "AGENT_DESKTOP"
+        ]
+      },
+      {
+        "filter": "yext/ANSWERS_CONFIGURATION_VERSION_LABEL",
+        "in": [
+          "PRODUCTION"
+        ]
+      }
+    ]
+  },
+  "display": {
+    "table": {
+      "sort": {
+        "column": {
+          "metric": "yext/ANSWERS_CLICKS"
+        },
+        "descending": true
+      }
+    }
+  }
+}
