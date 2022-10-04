@@ -9,8 +9,7 @@
       "yext/ANSWERS_CLICK_THROUGH_RATE"
     ],
     "dimensions": [
-      "yext/ANSWERS_SEARCH_TERM",
-      "yext/ANSWERS_DIRECT_FIELD_VALUE"
+      "yext/ANSWERS_SEARCH_TERM"
     ],
     "filters": [
       {
