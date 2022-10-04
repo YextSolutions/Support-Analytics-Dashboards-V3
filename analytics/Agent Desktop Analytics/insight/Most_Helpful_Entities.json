@@ -9,10 +9,7 @@
     ],
     "fields": [
       "entityId",
-      "name",
-      "address",
-      "yext/derivedField-postalCode",
-      "yext/derivedField-city"
+      "name"
     ],
     "dimensions": [
       "yext/ENTITIES",
