@@ -1,7 +1,7 @@
 {
   "$id": "supportAnalytics_Help_Site_Direct_Answer_No_Engagement",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
-  "name": "Direct Answers with No DA Engagement ",
+  "name": "Direct Answers with No DA Engagement (Low DA Accuracy)",
   "description": "Direct Answer (DA) that surfaced as a result, and did not receive a click on the DA entity. Metrics shown include total searches by DA Field Value by Search Term. If a Search Click Through Rate is \u003e0%, then a non-Direct Answer entity was clicked from the returned results.",
   "query": {
     "metrics": [
