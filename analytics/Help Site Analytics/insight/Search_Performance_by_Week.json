@@ -7,8 +7,7 @@
     "metrics": [
       "yext/ANSWERS_SESSIONS",
       "yext/ANSWERS_SEARCHES",
-      "yext/ANSWERS_CLICKS",
-      "yext/ANSWERS_KG_RESULT_RATE"
+      "yext/ANSWERS_CLICKS"
     ],
     "dimensions": [
       "yext/WEEKS"
