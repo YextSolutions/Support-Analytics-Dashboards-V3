@@ -24,6 +24,12 @@
         "in": [
           "HELP_SITE"
         ]
+      },
+      {
+        "filter": "yext/IS_HUMAN",
+        "in": [
+          "true"
+        ]
       }
     ]
   },
