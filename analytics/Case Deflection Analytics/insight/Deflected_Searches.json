@@ -1,5 +1,5 @@
 {
-  "$id": "supportAnalytics_Case_Deflection_deflected_search_terms",
+  "$id": "supportAnalytics_Case_Deflection_Deflected_Searches",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Deflected Search Terms",
   "description": "Search Terms that were deflected by Support Search.",
