@@ -2,7 +2,7 @@
   "$id": "supportAnalytics_Help_Site_Search_Frequency_by_User",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Search Frequency by User",
-  "description": "Search Frequency by User. Determine who your power users are by Visitor ID and Visitor ID Method. Note: Data is limited based on available Visitor ID tracking.",
+  "description": "Search Frequency by Visitor ID and Visitor ID Method. Identify your power users. Note: Data is limited based on available Visitor ID tracking.",
   "query": {
     "metrics": [
       "yext/ANSWERS_SEARCHES"
