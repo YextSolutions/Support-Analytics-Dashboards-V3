@@ -26,8 +26,7 @@
       {
         "filter": "yext/ANSWERS_QUERY_SOURCE",
         "in": [
-          "HELP_SITE",
-          "SUPPORT_SEARCH"
+          "HELP_SITE"
         ]
       },
       {
