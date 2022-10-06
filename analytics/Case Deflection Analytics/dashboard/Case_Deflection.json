@@ -4,7 +4,7 @@
   "name": "Case Deflection Analytics",
   "insights": [
     {
-      "insight": "supportAnalytics_Case_Deflection_hero_line_chart_case_deflections",
+      "insight": "supportAnalytics_Case_Deflection_Hero_Line_Chart_Case_Deflections",
       "x": 0,
       "y": 0,
       "width": 4,
@@ -25,7 +25,7 @@
       "height": 2
     },
     {
-      "insight": "supportAnalytics_Case_Deflection_deflected_search_terms",
+      "insight": "supportAnalytics_Case_Deflection_Deflected_Search_Terms",
       "x": 3,
       "y": 2,
       "width": 3,
