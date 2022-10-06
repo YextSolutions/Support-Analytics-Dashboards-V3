@@ -2,7 +2,7 @@
   "$id": "supportAnalytics_Agent_Desktop_Agent_Activity",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Agent Activity",
-  "description": "Searches, Search Click Through Rate, and Search Sessions by Visitor ID and Visitor ID Method",
+  "description": "Searches, Search Click Through Rate, and Search Sessions by Visitor ID and Visitor ID Method. View Search activity of your Agents.",
   "query": {
     "metrics": [
       "yext/ANSWERS_SEARCHES",

@@ -2,7 +2,7 @@
   "$id": "supportAnalytics_Agent_Desktop_Most_Helpful_Entities",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Most Helpful Entities",
-  "description": "Top Searched and Clicked Entities by Entity Result Position and Search Vertical",
+  "description": "Top Searched and Clicked Entities by Entity Result Position and Search Vertical. Most helpful Entities in Agent Desktop Search that are being searched and interacted with.",
   "query": {
     "metrics": [
       "yext/ANSWERS_SEARCHES",
