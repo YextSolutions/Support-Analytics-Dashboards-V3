@@ -2,7 +2,7 @@
   "$id": "supportAnalytics_Help_Site_Searches_by_Referrer_URL",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Searches by Referrer URL",
-  "description": "Answers Sessions, Answers Searches, Answers Clicks, and Answers Click Through Rate by Referrer URL",
+  "description": "Answers Sessions, Answers Searches, Answers Clicks, and Answers Click Through Rate by Referrer URL. Discover which pages users are arriving to your Search experience from.",
   "query": {
     "metrics": [
       "yext/ANSWERS_SESSIONS",
