@@ -1,16 +1,16 @@
 {
-  "$id": "supportAnalytics_Case_Deflection_Search_Terms_That_Led_To_Case_Submission",
+  "$id": "supportAnalytics_Case_Deflection_Support_Search_Overview",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
-  "name": "Submitted Search Terms",
-  "description": "Search Terms that were Submitted Despite Support Search.",
+  "name": "Support Search Overview",
+  "description": "Overview of how Support Search is performing at the Case Submission Page.",
   "query": {
     "metrics": [
+      "yext/ANSWERS_CASE_STARTS",
       "yext/ANSWERS_CASE_SUBMITS",
-      "yext/ANSWERS_CASE_DEFLECTION_RATE",
-      "yext/ANSWERS_KG_RESULT_RATE"
+      "yext/ANSWERS_CASE_DEFLECTIONS"
     ],
     "dimensions": [
-      "yext/ANSWERS_SEARCH_TERM"
+      "yext/DAYS"
     ],
     "filters": [
       {
@@ -28,12 +28,9 @@
     ]
   },
   "display": {
-    "table": {
-      "sort": {
-        "column": {
-          "metric": "yext/ANSWERS_CASE_SUBMITS"
-        },
-        "descending": true
+    "line": {
+      "heroNumbers": {
+        "show": true
       }
     }
   }
