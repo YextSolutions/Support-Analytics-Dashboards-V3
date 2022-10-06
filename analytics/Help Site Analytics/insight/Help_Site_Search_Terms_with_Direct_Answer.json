@@ -2,7 +2,7 @@
   "$id": "supportAnalytics_Help_Site_Search_Terms_with_Direct_Answer",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Top Search Terms with Direct Answer",
-  "description": "Top Search Terms with Direct Answer",
+  "description": "Searches by Search Term. Identify Top Search Terms with a Direct Answer",
   "query": {
     "metrics": [
       "yext/ANSWERS_SEARCHES"
