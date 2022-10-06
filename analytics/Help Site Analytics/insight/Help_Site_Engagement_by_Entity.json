@@ -2,7 +2,7 @@
   "$id": "supportAnalytics_Help_Site_Engagement_by_Entity",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Engagement by Entity",
-  "description": "Track Search KPIs by Entity to determine entities that are most commonly returned and most commonly engaged with.",
+  "description": "Track Search KPIs by Entity to determine entities that are most commonly returned and engaged with.",
   "query": {
     "metrics": [
       "yext/ANSWERS_SEARCHES",
@@ -11,10 +11,7 @@
     ],
     "fields": [
       "entityId",
-      "name",
-      "address",
-      "yext/derivedField-postalCode",
-      "yext/derivedField-city"
+      "name"
     ],
     "dimensions": [
       "yext/ENTITIES"

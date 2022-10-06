@@ -56,14 +56,7 @@
       "insight": "supportAnalytics_Help_Site_Click_Through_Rate_Overview",
       "x": 0,
       "y": 7,
-      "width": 4,
-      "height": 2
-    },
-    {
-      "insight": "supportAnalytics_Help_Site_Search_Term_Word_Count_Distribution",
-      "x": 4,
-      "y": 7,
-      "width": 2,
+      "width": 6,
       "height": 2
     },
     {
