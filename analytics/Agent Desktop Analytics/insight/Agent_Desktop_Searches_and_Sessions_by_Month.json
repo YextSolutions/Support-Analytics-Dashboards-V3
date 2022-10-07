@@ -2,7 +2,7 @@
     "$id": "supportAnalytics_Agent_Desktop_Searches_and_Sessions_by_Month",
     "$schema": "https://schema.yext.com/config/analytics/insight/v1",
     "name": "Agent Desktop Searches and Search Sessions by Month",
-    "description": "Agent Desktop Searches and Search Sessions by Month",
+    "description": "Searches and Search Sessions by Month for Agent Desktop Search",
     "query": {
       "metrics": [
         "yext/ANSWERS_SEARCHES",

@@ -2,7 +2,7 @@
   "$id": "supportAnalytics_Help_Site_Engagement_by_Entity",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Engagement by Entity",
-  "description": "Searches, Click, and Click Through Rate by Entity. Track entities that are most commonly returned and engaged with.",
+  "description": "Searches, Click, and Click Through Rate by Entity. Track Entities that are most commonly returned and engaged with.",
   "query": {
     "metrics": [
       "yext/ANSWERS_SEARCHES",
